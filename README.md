@@ -35,5 +35,5 @@ python ucf_test.py
 We referenced the repos below for the code.
 * [XDVioDet](https://github.com/Roc-Ng/XDVioDet)
 * [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
-* [VadCLIP] (https://github.com/nwpu-zxr/VadCLIP)
+* [VadCLIP](https://github.com/nwpu-zxr/VadCLIP)
 
