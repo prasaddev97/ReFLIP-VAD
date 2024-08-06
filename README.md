@@ -2,9 +2,9 @@
 This is the official Pytorch implementation of our paper:
 **"ReFLIP-VAD: Towards Weakly Supervised Video Anomaly Detection via Vision-Language Model"** in **TCSVT 2024.**  
 
-![framework](data/framework.pdf)
+![framework](data/framework.png)
 
-## Highlight
+## Highlights
 - A novel framework i.e. ReFLIP-VAD is developed that employs a prompt encoder to generate reparameterized learnable prompt templates instead of hand-crafted templates. These templates are contextually rich, enhancing interpretability and providing a deeper understanding of the specific semantics associated with anomalies. 
 
 - The proposed approach comprises a classification block and a video-text alignment block. The former leverages visual features for binary classification while the latter leverages both textual and visual features for language-vision alignment. Consequently, this dual block based proposed approach is able to detect video anomalies at both coarse and fine-grained levels.
@@ -37,6 +37,5 @@ We referenced the repos below for the code.
 * [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
 * [VadCLIP] (https://github.com/nwpu-zxr/VadCLIP)
 
-
 ```
----
+
