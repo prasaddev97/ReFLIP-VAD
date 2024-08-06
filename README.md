@@ -37,5 +37,3 @@ We referenced the repos below for the code.
 * [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
 * [VadCLIP] (https://github.com/nwpu-zxr/VadCLIP)
 
-```
-
