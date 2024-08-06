@@ -1,6 +1,6 @@
 # ReFLIP-VAD
 This is the official Pytorch implementation of our paper:
-**"ReFLIP-VAD: Towards Weakly Supervised Video Anomaly Detection via Vision-Language Model"** in **TCSVT 2024.**  
+**"ReFLIP-VAD: Towards Weakly Supervised Video Anomaly Detection via Vision-Language Model"** in **TCSVT 2024(Under Revision/Unpublished).**  
 
 ![framework](data/framework.png)
 
