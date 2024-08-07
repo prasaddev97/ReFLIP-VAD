@@ -53,10 +53,3 @@ python xd_train.py
 python xd_test.py
 ```
 
-
-## References
-We referenced the repos below for the code.
-* [XDVioDet](https://github.com/Roc-Ng/XDVioDet)
-* [DeepMIL](https://github.com/Roc-Ng/DeepMIL)
-* [VadCLIP](https://github.com/nwpu-zxr/VadCLIP)
-
