@@ -3,6 +3,7 @@ This is the official Pytorch implementation of our paper:
 **"ReFLIP-VAD: Towards Weakly Supervised Video Anomaly Detection via Vision-Language Model"** in **TCSVT 2024(Under Revision/Unpublished).**  
 > <a href="https://scholar.google.com/citations?user=XVAWNbEAAAAJ&hl=en" target="_blank">Prabhu Prasad Dev</a>, <a href="https://scholar.google.co.in/citations?user=rcogsCMAAAAJ&hl=en" target="_blank">Raju Hazari</a>, <a href="https://scholar.google.co.in/citations?user=suWm38AAAAAJ&hl=en" target="_blank">Pranesh Das</a>
 
+## Framework
 ![framework](data/framework.png)
 
 ## Highlights
