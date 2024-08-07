@@ -33,24 +33,26 @@ The following files need to be adapted in order to run the code on your own mach
 
 ### Dataset
 #### UCF-Crime
-The dataset can also be downloaded from the following link: <a href="https://visionlab.uncc.edu/download/summary/60-data/477-ucf-anomaly-detection-dataset" target="_blank"> Download </a>
-You can also download the dataset in parts through the following link: <a href="https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0" target="_blank">Download </a>
+-The dataset can also be downloaded from the following link: <a href="https://visionlab.uncc.edu/download/summary/60-data/477-ucf-anomaly-detection-dataset" target="_blank"> Download </a>
+-You can also download the dataset in parts through the following link: <a href="https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0" target="_blank">Download </a>
 
-
+#### XD-Violence
+-The dataset can also be downloaded from the following link: <a href="https://roc-ng.github.io/XD-Violence/" target="_blank"> Download </a>
 
 ### Train and Test
-After the setup, simply run the following command: 
-
-Traing and infer for XD-Violence dataset
-```
-python xd_train.py
-python xd_test.py
-```
-Traing and infer for UCF-Crime dataset
+After the setup, run the following command: 
+Training and infer for UCF-Crime dataset
 ```
 python ucf_train.py
 python ucf_test.py
 ```
+
+Training and infer for XD-Violence dataset
+```
+python xd_train.py
+python xd_test.py
+```
+
 
 ## References
 We referenced the repos below for the code.
