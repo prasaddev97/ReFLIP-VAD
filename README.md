@@ -20,7 +20,7 @@ The following files need to be adapted in order to run the code on your own mach
 - Feel free to change the hyperparameters in `xd_option.py` and `ucf_option.py`
 
 ## <a name="2"></a> Prerequisites
-- <a href="https://releases.ubuntu.com/18.04/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> Operating system
+- <a href="https://releases.ubuntu.com/22.04/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> Operating system
     - Ubuntu 22.04.4 LTS 
 - <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" alt="pytorch" width="30" height="30"/> </a> Graphics card
     - GPU: NVIDIA RTX 4070
@@ -30,6 +30,12 @@ The following files need to be adapted in order to run the code on your own mach
     - torchvision: 0.14
 - <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> Programming language
     - python: 3.10 or higher
+
+### Dataset
+#### UCF-Crime
+The dataset can also be downloaded from the following link: <a href="https://visionlab.uncc.edu/download/summary/60-data/477-ucf-anomaly-detection-dataset" target="_blank"> </a>
+You can also download the dataset in parts through the following link: <a href="https://www.dropbox.com/sh/75v5ehq4cdg5g5g/AABvnJSwZI7zXb8_myBA0CLHa?dl=0" target="_blank"> </a>
+
 
 
 ### Train and Test
