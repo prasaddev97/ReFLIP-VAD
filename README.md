@@ -60,7 +60,7 @@ python xd_test.py
 |    dataset   | features | gpus | AUC (%) |                                             
 |:------------:|:--------:|:----:|:-------:|
 | UCF-Crime |    CLIP  |   1  |  88.57   | 
-| UCF-Crime |    CLIP  |   1  | 89.14  | 
+| UCF-Crime |    FLIP  |   1  | 89.14  | 
 |   XD-Violence  |    CLIP   |   1  |  85.81 | 
 |   XD-Violence  |    FLIP   |   1  |  86.29 | 
 
