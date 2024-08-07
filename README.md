@@ -19,6 +19,19 @@ The following files need to be adapted in order to run the code on your own mach
 - Change the file paths to the download datasets above in `list/xd_ReFLIP_rgb.csv` and `list/xd_ReFLIP_rgbtest.csv`. 
 - Feel free to change the hyperparameters in `xd_option.py` and `ucf_option.py`
 
+## <a name="2"></a> Prerequisites
+- <a href="https://releases.ubuntu.com/18.04/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> Operating system
+    - Ubuntu 22.04.4 LTS 
+- <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" alt="pytorch" width="30" height="30"/> </a> Graphics card
+    - GPU: NVIDIA RTX 4070
+- <a href="https://pytorch.org/get-started/previous-versions/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/> </a> Framework and environment
+    - pytorch: 1.13 or higher
+    - cuda: 12.1
+    - torchvision: 0.14
+- <a href="https://docs.conda.io/en/latest/miniconda.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> Programming language
+    - python: 3.10 or higher
+
+
 ### Train and Test
 After the setup, simply run the following command: 
 
