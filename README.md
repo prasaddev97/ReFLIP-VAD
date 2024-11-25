@@ -65,11 +65,21 @@ python xd_test.py
 |   XD-Violence  |    CLIP   |   1  |  85.81 | 
 |   XD-Violence  |    FLIP   |   1  |  86.29 | 
 
-#### References
+### References
 We referenced the repos below for the code.
 
 **<a href="https://github.com/nwpu-zxr/VadCLIP" target="_blank">VadCLIP</a>.**  
 **<a href="https://github.com/lucidrains/x-clip" target="_blank">x-clip</a>.**  
 **<a href="https://github.com/Roc-Ng/DeepMIL" target="_blank">Deep-MIL</a>.**  
 
+## Citations
+
+```bibtex
+@article{dev2024reflip,
+  title={ReFLIP-VAD: Towards Weakly Supervised Video Anomaly Detection via Vision-Language Model},
+  author={Dev, Prabhu Prasad and Hazari, Raju and Das, Pranesh},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
 
