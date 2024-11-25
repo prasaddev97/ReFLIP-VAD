@@ -65,7 +65,8 @@ python xd_test.py
 |   XD-Violence  |    CLIP   |   1  |  85.81 | 
 |   XD-Violence  |    FLIP   |   1  |  86.29 | 
 
-### References
+
+## References
 We referenced the repos below for the code.
 
 **<a href="https://github.com/nwpu-zxr/VadCLIP" target="_blank">VadCLIP</a>.**  
