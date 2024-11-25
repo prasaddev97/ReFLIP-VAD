@@ -67,6 +67,7 @@ python xd_test.py
 
 #### References
 We referenced the repos below for the code.
+
 **<a href="https://github.com/nwpu-zxr/VadCLIP" target="_blank">VadCLIP</a>.**  
 **<a href="https://github.com/lucidrains/x-clip" target="_blank">x-clip</a>.**  
 **<a href="https://github.com/Roc-Ng/DeepMIL" target="_blank">Deep-MIL</a>.**  
